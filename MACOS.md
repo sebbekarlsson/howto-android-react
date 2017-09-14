@@ -23,6 +23,8 @@
 
     emulator -avd my_android
 
+> I have already created an AVD, here's how to do that:
+> [https://stackoverflow.com/questions/3552218/android-create-avd-size-on-windows-command-prompt](https://stackoverflow.com/questions/3552218/android-create-avd-size-on-windows-command-prompt)
 > Make sure this is running before starting your react-native app
 
 # React Native
